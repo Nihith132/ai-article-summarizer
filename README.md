@@ -16,11 +16,4 @@ A simple yet powerful Python script that takes a URL of a web article and uses G
 - **Web Scraping:** `requests-html`
 - **Environment Management:** `python-dotenv`
 
-## Setup and Installation
 
-Follow these steps to get the project running on your local machine.
-
-**1. Clone the repository:**
-```bash
-git clone [https://github.com/your-username/ai-article-summarizer.git](https://github.com/your-username/ai-article-summarizer.git)
-cd ai-article-summarizer
