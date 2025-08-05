@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Environment file with secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pyppeteer's downloaded browser cache
+.local-chromium/
